@@ -9,6 +9,9 @@
     <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="right" alt="photo-profile" height="150" style="border-radius:50px;" src="https://instagram.ffln5-1.fna.fbcdn.net/v/t51.2885-19/249788232_217214437181891_5115409897095200908_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ffln5-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=VYhejEd-nzoAX-FpukJ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-LoG-1Vp3X0NidvAH7o_3saorUaylxX39wsgqEHyBJ7g&oe=62C94E99&_nc_sid=8fd12b">
 </div>
  
