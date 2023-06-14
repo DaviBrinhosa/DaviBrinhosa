@@ -12,7 +12,6 @@
     <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img align="right" alt="photo-profile" height="150" style="border-radius:50px;" src="https://instagram.ffln1-1.fna.fbcdn.net/v/t51.2885-15/250807848_4337728672998431_6097249832210015503_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.ffln1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LKKwkEGBDG0AX8h0m_T&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjY5NTM5NDM0OTM4MzM0NDM1Mg%3D%3D.2-ccb7-5&oh=00_AfAKn2IG6yBQN85eAy5-YOr60IcSDlN2RmEtdVzoXKi3dQ&oe=646DB568&_nc_sid=a1ad6c">
 </div>
  
 <div> <br><br>
